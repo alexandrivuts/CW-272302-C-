@@ -1,0 +1,8 @@
+﻿  func.cpp
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(175,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(196,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(218,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(239,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(1151,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\Курсовая ГОТОВАЯ\func.cpp(1158,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Курсовая ГОТОВАЯ.vcxproj -> C:\Users\lenovo\source\repos\Курсовая ГОТОВАЯ\x64\Debug\Курсовая ГОТОВАЯ.exe
